@@ -13,7 +13,7 @@ import time  # For adding a delay
 pygame.mixer.init()
 
 # Configure Gemini API Key
-genai.configure(api_key="AIzaSyBWkt5ZMXdRf79jC-PSLcBMAhQQNK6zVxQ")  # Replace with your actual API key
+genai.configure(api_key="API KEY")  # Replace with your actual API key
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
