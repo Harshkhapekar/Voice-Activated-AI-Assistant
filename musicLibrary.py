@@ -1,0 +1,22 @@
+music = {
+    "stealth": "https://www.youtube.com/watch?v=U47Tr9BB_wE",
+    "march": "https://www.youtube.com/watch?v=Xqeq4b5u_Xw",
+    "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI",
+    "wolf": "https://www.youtube.com/watch?v=ThCH0U6aJpU",
+    "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+    "shape of you": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+    "faded": "https://www.youtube.com/watch?v=60ItHLz5WEA",
+    "thunder": "https://www.youtube.com/watch?v=fKopy74weus",
+    "bad guy": "https://www.youtube.com/watch?v=DyDfgMOUjCI",
+    "rockstar": "https://www.youtube.com/watch?v=UceaB4D0jpo",
+    "closer": "https://www.youtube.com/watch?v=PT2_F-1esPk",
+    "let me love you": "https://www.youtube.com/watch?v=euCqAq6BRa4",
+    "stressed out": "https://www.youtube.com/watch?v=pXRviuL6vMY",
+    "cheap thrills": "https://www.youtube.com/watch?v=nYh-n7EOtMA",
+    "heathens": "https://www.youtube.com/watch?v=UprcpdwuwCg",
+    "see you again": "https://www.youtube.com/watch?v=RgKAFK5djSk",
+    "hall of fame": "https://www.youtube.com/watch?v=mk48xRzuNvA",
+    "someone you loved": "https://www.youtube.com/watch?v=zABLecsR5UE",
+    "senorita": "https://www.youtube.com/watch?v=Pkh8UtuejGw",
+    "memories": "https://www.youtube.com/watch?v=SlPhMPnQ58k"
+}
